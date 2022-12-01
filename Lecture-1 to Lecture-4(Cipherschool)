@@ -20,7 +20,7 @@ print(x+1)
 print("a")
 print("b")
 print("c")
-print(1, 2, 3.5, "jaswanth", 6+4j , sep='-')
+print(1, 2, 3.5, "john", 6+4j , sep='-')
 
 #input function
 a=input()
