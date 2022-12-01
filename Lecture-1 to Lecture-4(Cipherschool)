@@ -1,0 +1,42 @@
+#how to print a word in python
+"by using print() function we can print"
+
+#printng "hello world"
+print("hello world")
+
+
+'''python excute code in line wise'''
+#basic of pythons
+
+#"word of line" may be a statement or a expression
+
+#Naming variable and printing a variable
+a=10
+print(a)
+#performing operations
+x=7899
+print(x+1)
+#basic code printing
+print("a")
+print("b")
+print("c")
+print(1, 2, 3.5, "jaswanth", 6+4j , sep='-')
+
+#input function
+a=input()
+b=input()
+print(a) #given an input to print somthing
+print(b)
+
+#type casting
+int a=65
+char b =(char)a;
+
+bin(65)
+
+#typecoercion
+a=15
+str(a)
+
+int('1234')
+float('9.08')
